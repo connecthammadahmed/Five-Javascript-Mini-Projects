@@ -1,4 +1,3 @@
-# CSS Typing Effect
 # Here You Find Five Javascript Mini Projects With Guide
 # Follow And Ping Me On Following:
 Instragram: https://www.instagram.com/iaamhammadahmed<br><br>
